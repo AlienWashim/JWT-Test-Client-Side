@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5C138-FB25-49AF-852F-FE849F2BA049}|WeatherAPI\\WeatherAPI.csproj|d:\\washim\\visual studio projects\\jwtauthenticationauthorization\\weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE5C138-FB25-49AF-852F-FE849F2BA049}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5C138-FB25-49AF-852F-FE849F2BA049}|WeatherAPI\\WeatherAPI.csproj|d:\\washim\\visual studio projects\\jwtauthenticationauthorization\\weatherapi\\weatherapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6CE5C138-FB25-49AF-852F-FE849F2BA049}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\weatherapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC3E8B5-ED0C-49DF-B753-337D5D394DD5}|JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj|d:\\washim\\visual studio projects\\jwtauthenticationauthorization\\jwtauthenticationauthorization\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC3E8B5-ED0C-49DF-B753-337D5D394DD5}|JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj|solutionrelative:jwtauthenticationauthorization\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC3E8B5-ED0C-49DF-B753-337D5D394DD5}|JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj|d:\\washim\\visual studio projects\\jwtauthenticationauthorization\\jwtauthenticationauthorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC3E8B5-ED0C-49DF-B753-337D5D394DD5}|JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj|solutionrelative:jwtauthenticationauthorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC3E8B5-ED0C-49DF-B753-337D5D394DD5}|JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj|d:\\washim\\visual studio projects\\jwtauthenticationauthorization\\jwtauthenticationauthorization\\jwtauthenticationauthorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EC3E8B5-ED0C-49DF-B753-337D5D394DD5}|JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj|solutionrelative:jwtauthenticationauthorization\\jwtauthenticationauthorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5C138-FB25-49AF-852F-FE849F2BA049}|WeatherAPI\\WeatherAPI.csproj|d:\\washim\\visual studio projects\\jwtauthenticationauthorization\\weatherapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE5C138-FB25-49AF-852F-FE849F2BA049}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5C138-FB25-49AF-852F-FE849F2BA049}|WeatherAPI\\WeatherAPI.csproj|d:\\washim\\visual studio projects\\jwtauthenticationauthorization\\weatherapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE5C138-FB25-49AF-852F-FE849F2BA049}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherAPI",
+              "DocumentMoniker": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\WeatherAPI\\WeatherAPI.csproj",
+              "RelativeDocumentMoniker": "WeatherAPI\\WeatherAPI.csproj",
+              "ToolTip": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\WeatherAPI\\WeatherAPI.csproj",
+              "RelativeToolTip": "WeatherAPI\\WeatherAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T09:52:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "JWTAuthenticationAuthorization\\TokenGenerator.cs",
+              "ToolTip": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization\\TokenGenerator.cs",
+              "RelativeToolTip": "JWTAuthenticationAuthorization\\TokenGenerator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:52:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthenticationAuthorization\\Program.cs",
+              "ToolTip": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization\\Program.cs",
+              "RelativeToolTip": "JWTAuthenticationAuthorization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:52:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JWTAuthenticationAuthorization",
+              "DocumentMoniker": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj",
+              "RelativeDocumentMoniker": "JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj",
+              "ToolTip": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj",
+              "RelativeToolTip": "JWTAuthenticationAuthorization\\JWTAuthenticationAuthorization.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T09:48:15.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\WeatherAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\WeatherAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:43:10.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\WeatherAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherAPI\\Program.cs",
+              "ToolTip": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\WeatherAPI\\Program.cs*",
+              "RelativeToolTip": "WeatherAPI\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:23:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\WeatherAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WeatherAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Washim\\Visual Studio Projects\\JWTAuthenticationAuthorization\\WeatherAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WeatherAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:43:54.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
